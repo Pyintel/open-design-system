@@ -1,6 +1,16 @@
 {
-  "name": "open-design-system",
-  "version": "1.0.0",
+  "name": "@pyintel/arc-module-design-system",
+  "version": "1.0.1",
   "description": "UI/UX Mockups, Stitch AI Integration, and Design Tokens Module for Apex Arc",
-  "author": "Pyintel"
+  "author": "Pyintel",
+  "keywords": [
+    "pyintel-arc-module",
+    "arc-module"
+  ],
+  "files": [
+    "ARC",
+    "skills",
+    "tools",
+    "README.md"
+  ]
 }
