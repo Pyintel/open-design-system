@@ -1,6 +1,6 @@
 {
   "name": "@pyintel/arc-module-design-system",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "UI/UX Mockups, Stitch AI Integration, and Design Tokens Module for Apex Arc",
   "author": "Pyintel",
   "keywords": [
@@ -12,5 +12,8 @@
     "skills",
     "tools",
     "README.md"
-  ]
+  ],
+  "scripts": {
+    "test": "echo \"No test specified\""
+  }
 }
